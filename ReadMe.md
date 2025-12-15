@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/fluxgrab_logo.png" alt="FluxGrab Logo" width="100" height="100" />
+  <img src="./assets/Downloader.pngg" alt="FluxGrab Logo" width="100" height="100" />
   
   # FluxGrab
   
@@ -42,11 +42,11 @@ Built by **[NTXM](https://ntxm.org)**, it focuses on speed, simplicity, and high
 
 | **Home Screen** | **Downloading Process** |
 |:---:|:---:|
-| <img src="./screenshots/fluxgrab_HomeScreen.jpg" width="100%" alt="Home Screen"> | <img src="./screenshots/fluxgrab_HomeScreen_Youtube_Downloading.jpg" width="100%" alt="Downloading"> |
+| <img src="./assets/fluxgrab_HomeScreen.png" width="100%" alt="Home Screen"> | <img src="./assets/fluxgrab_HomeScreen_Youtube_Downloading.png" width="100%" alt="Downloading"> |
 
-| **Instagram Support** | **Download Complete** |
+| **Instagram Support** |
 |:---:|:---:|
-| <img src="./screenshots/fluxgrab_HomeScreen_Instagram_Downloaded.jpg" width="100%" alt="Instagram"> | <img src="./screenshots/fluxgrab_HomeScreen_Youtube_Download_Complete.png" width="100%" alt="Success"> |
+| <img src="./assets/fluxgrab_HomeScreen_Instagram_Downloading.png" width="100%" alt="Instagram">
 
 ---
 
