@@ -45,8 +45,8 @@ Built by **[NTXM](https://ntxm.org)**, it focuses on speed, simplicity, and high
 | <img src="./assets/fluxgrab_HomeScreen.png" width="100%" alt="Home Screen"> | <img src="./assets/fluxgrab_HomeScreen_Youtube_Downloading.png" width="100%" alt="Downloading"> |
 
 | **Instagram Support** |
-|:---:|:---:|
-| <img src="./assets/fluxgrab_HomeScreen_Instagram_Downloading.png" width="100%" alt="Instagram">
+|:---:|
+| <img src="./assets/fluxgrab_HomeScreen_Instagram_Downloaded.png" width="100%" alt="Instagram">
 
 ---
 
