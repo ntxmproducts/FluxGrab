@@ -84,7 +84,7 @@ FluxGrab is strictly intended for personal use (e.g., downloading your own conte
 
 * **Website:** [https://ntxm.org](https://ntxm.org)
 * **Developer:** [Nitiksh](https://nitiksh.ntxm.org)
-* **Twitter/X:** [@NTXM](https://twitter.com/NTXM)
+* **Twitter/X:** [@NTXM](https://twitter.com/ntxmofficial)
 
 ---
 
