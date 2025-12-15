@@ -66,7 +66,7 @@ FluxGrab is designed for a "3-Step" workflow:
 
 ## 📥 Installation
 
-1.  Go to the [Releases](https://github.com/yourusername/fluxgrab/releases) page.
+1.  Go to the [Releases]([https://github.com/yourusername/fluxgrab/releases](https://github.com/ntxmproducts/FluxGrab/releases/) page.
 2.  Download the latest `.exe` installer for Windows.
 3.  Run the installer and launch FluxGrab.
 
