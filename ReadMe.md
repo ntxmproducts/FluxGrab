@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/Downloader.pngg" alt="FluxGrab Logo" width="100" height="100" />
+  <img src="./assets/Downloader.png" alt="FluxGrab Logo" width="100" height="100" />
   
   # FluxGrab
   
@@ -66,7 +66,7 @@ FluxGrab is designed for a "3-Step" workflow:
 
 ## 📥 Installation
 
-1.  Go to the [Releases](https://github.com/ntxmproducts/FluxGrab/releases/] page.
+1.  Go to the [Releases](https://github.com/ntxmproducts/FluxGrab/releases/) page.
 2.  Download the latest `.exe` installer for Windows.
 3.  Run the installer and launch FluxGrab.
 
